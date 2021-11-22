@@ -57,13 +57,13 @@ $ git clone https://github.com/Azim-Vau/old-id-cloner.git
 #### RUN SCRIPT
 ```python
 $ cd old-id-cloner
-$ python old-id-cloner.py
+$ python oldcr3k.py
 ```
 
 #### [~] SINGLE COMMAND
 
 ```python
-apt update -y ; apt upgrade -y ; apt install python -y ; pip install requests ; pip install mechanize ; pip install lolcat ; pip install bs4 ; apt install git -y ; git clone https://github.com/Azim-vau/old-id-cloner ; cd old-id-cloner ; python old-id-cloner.py
+apt update -y ; apt upgrade -y ; apt install python -y ; pip install requests ; pip install mechanize ; pip install lolcat ; pip install bs4 ; apt install git -y ; git clone https://github.com/Azim-vau/old-id-cloner ; cd old-id-cloner ; python oldcr3k.py
 ```
 
 #### MY SOCIAL MEDIA
